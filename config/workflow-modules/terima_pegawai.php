@@ -3,7 +3,7 @@
 return [
     'process_definition_key' => 'penerimaan_pegawai',
 
-    'label' => 'Terima Pegawai',
+    'label' => 'Terima Pegawai Baru',
 
     'whitelist' => [],
 ];

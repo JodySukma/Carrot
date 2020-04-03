@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ad93f21-77d0-452e-8e2d-c0b0b9cd9e45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Dashboard.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2018_07_24_063456_create_mail_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2018_07_24_063456_create_mail_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2018_07_25_063456_alter_mail_add_more_metadata_columns.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2018_07_25_063456_alter_mail_add_more_metadata_columns.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_05_30_141900_alter_mail_add_error_column.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_05_30_141900_alter_mail_add_error_column.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_29_085224_camunda_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_10_29_085224_camunda_form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_29_090945_create_table_lookup.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_10_29_090945_create_table_lookup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_18_040229_create_menu_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_11_18_040229_create_menu_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_21_232525_create_camunda_task.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_11_21_232525_create_camunda_task.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_29_080711_segment_migration.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_11_29_080711_segment_migration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_12_12_104841_create_table_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_12_12_104841_create_table_form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_12_17_003652_create_table_workflow_module.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_12_17_003652_create_table_workflow_module.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_12_17_011038_create_table_workflow_permission.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_12_17_011038_create_table_workflow_permission.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_12_28_030535_create_table_workflow_autosave.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_12_28_030535_create_table_workflow_autosave.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_01_17_030535_alter_table_camunda_form_add_tabel_field_hint.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_01_17_030535_alter_table_camunda_form_add_tabel_field_hint.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/bpmn/penerimaan_pegawai.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/resources/bpmn/penerimaan_pegawai.bpmn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/id/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/id/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/id/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/id/pagination.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/id/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/id/passwords.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/id/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/id/validation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboard.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/workflow-modules/terima-pegawai.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/workflow-modules/terima-pegawai.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/workflow-modules/terima_pegawai.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/workflow-modules/terima_pegawai.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,10 +16,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="940">
               <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
             </state>
           </provider>
@@ -79,18 +54,22 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/workflow-modules/terima-pegawai.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="100">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/workflow-modules/terima_pegawai.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -107,6 +86,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>laravolt</find>
+      <find>arya</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -115,8 +95,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config/workflow-modules/terima_pegawai.php" />
         <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/config/workflow-modules/terima_pegawai.php" />
+        <option value="$PROJECT_DIR$/config/workflow-modules/terima-pegawai.php" />
       </list>
     </option>
   </component>
@@ -367,15 +348,16 @@
       <workItem from="1583135689447" duration="92000" />
       <workItem from="1585295220381" duration="1714000" />
       <workItem from="1585805109429" duration="16000" />
-      <workItem from="1585895969901" duration="5402000" />
+      <workItem from="1585895969901" duration="5483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12759000" />
+    <option name="totallyTimeSpent" value="12840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -450,16 +432,6 @@
     <entry file="file://$PROJECT_DIR$/config/workflow-modules/penerimaan_pegawai.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/workflow-modules/terima-pegawai.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/workflow-modules/terima_pegawai.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/app.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -472,8 +444,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="940">
           <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/workflow-modules/terima_pegawai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/workflow-modules/terima-pegawai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
